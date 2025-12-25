@@ -1,0 +1,874 @@
+
+Character.png
+size: 907,907
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bazooka/Bazooka-1/Bazooka-1
+  rotate: false
+  xy: 317, 775
+  size: 149, 130
+  orig: 149, 130
+  offset: 0, 0
+  index: -1
+Bazooka/Bazooka-1/Bazooka-1-fx
+  rotate: true
+  xy: 2, 213
+  size: 149, 130
+  orig: 149, 130
+  offset: 0, 0
+  index: -1
+Bazooka/Bazooka-1/Bazooka-Bullet
+  rotate: false
+  xy: 608, 246
+  size: 66, 59
+  orig: 66, 59
+  offset: 0, 0
+  index: -1
+Bazooka/Bazooka-2/Bazooka-1
+  rotate: false
+  xy: 468, 775
+  size: 149, 130
+  orig: 149, 130
+  offset: 0, 0
+  index: -1
+Bazooka/Bazooka-2/Bazooka-1-fx
+  rotate: true
+  xy: 2, 62
+  size: 149, 130
+  orig: 149, 130
+  offset: 0, 0
+  index: -1
+Bazooka/Bazooka-3/Bazooka-1
+  rotate: false
+  xy: 619, 775
+  size: 149, 130
+  orig: 149, 130
+  offset: 0, 0
+  index: -1
+Bazooka/Bazooka-3/Bazooka-1-fx
+  rotate: true
+  xy: 770, 756
+  size: 149, 130
+  orig: 149, 130
+  offset: 0, 0
+  index: -1
+Bazooka/Bazooka-4/Bazooka-1
+  rotate: false
+  xy: 163, 480
+  size: 149, 130
+  orig: 149, 130
+  offset: 0, 0
+  index: -1
+Character-1/L-leg
+  rotate: false
+  xy: 596, 136
+  size: 34, 55
+  orig: 34, 55
+  offset: 0, 0
+  index: -1
+Character-1/L-thigh
+  rotate: true
+  xy: 819, 284
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+Character-1/Pistol/arm-2
+  rotate: true
+  xy: 682, 270
+  size: 42, 44
+  orig: 42, 44
+  offset: 0, 0
+  index: -1
+Character-1/Pistol/hand-1
+  rotate: false
+  xy: 654, 44
+  size: 40, 43
+  orig: 40, 43
+  offset: 0, 0
+  index: -1
+Character-1/Pistol/hand-2
+  rotate: true
+  xy: 755, 113
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+Character-1/Pistol/shoulder
+  rotate: false
+  xy: 722, 195
+  size: 36, 33
+  orig: 36, 33
+  offset: 0, 0
+  index: -1
+Character-1/R-leg
+  rotate: true
+  xy: 697, 410
+  size: 35, 66
+  orig: 35, 66
+  offset: 0, 0
+  index: -1
+Character-1/R-thigh
+  rotate: true
+  xy: 610, 44
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+Character-1/SMG/hand-1
+  rotate: true
+  xy: 767, 290
+  size: 30, 50
+  orig: 30, 50
+  offset: 0, 0
+  index: -1
+Character-1/SMG/shoulder
+  rotate: false
+  xy: 782, 462
+  size: 24, 56
+  orig: 24, 56
+  offset: 0, 0
+  index: -1
+Character-1/Shotgun/arm
+  rotate: true
+  xy: 859, 274
+  size: 33, 45
+  orig: 33, 45
+  offset: 0, 0
+  index: -1
+Character-1/Shotgun/hand-1
+  rotate: false
+  xy: 415, 2
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+Character-1/Shotgun/shoulder
+  rotate: false
+  xy: 673, 200
+  size: 47, 31
+  orig: 47, 31
+  offset: 0, 0
+  index: -1
+Character-1/belt
+  rotate: false
+  xy: 767, 257
+  size: 47, 31
+  orig: 47, 31
+  offset: 0, 0
+  index: -1
+Character-1/body
+  rotate: false
+  xy: 540, 237
+  size: 66, 68
+  orig: 66, 68
+  offset: 0, 0
+  index: -1
+Character-1/bomb
+  rotate: false
+  xy: 813, 205
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+Character-1/bomb-2
+  rotate: false
+  xy: 879, 410
+  size: 20, 35
+  orig: 20, 35
+  offset: 0, 0
+  index: -1
+Character-1/coat
+  rotate: true
+  xy: 570, 702
+  size: 71, 120
+  orig: 71, 120
+  offset: 0, 0
+  index: -1
+Character-1/face
+  rotate: false
+  xy: 505, 618
+  size: 54, 80
+  orig: 54, 80
+  offset: 0, 0
+  index: -1
+Character-1/face-2
+  rotate: false
+  xy: 561, 618
+  size: 54, 80
+  orig: 54, 80
+  offset: 0, 0
+  index: -1
+Character-1/head
+  rotate: false
+  xy: 163, 612
+  size: 141, 139
+  orig: 141, 139
+  offset: 0, 0
+  index: -1
+Character-1/hip
+  rotate: true
+  xy: 617, 610
+  size: 90, 64
+  orig: 90, 64
+  offset: 0, 0
+  index: -1
+Character-2/L-leg
+  rotate: true
+  xy: 610, 199
+  size: 45, 61
+  orig: 45, 61
+  offset: 0, 0
+  index: -1
+Character-2/L-thigh
+  rotate: false
+  xy: 813, 322
+  size: 45, 44
+  orig: 45, 44
+  offset: 0, 0
+  index: -1
+Character-2/Pistol/hand-1
+  rotate: true
+  xy: 860, 309
+  size: 42, 45
+  orig: 42, 45
+  offset: 0, 0
+  index: -1
+Character-2/Pistol/hand-2
+  rotate: false
+  xy: 721, 119
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+Character-2/Pistol/shoulder
+  rotate: false
+  xy: 853, 202
+  size: 38, 33
+  orig: 38, 35
+  offset: 0, 1
+  index: -1
+Character-2/R-leg
+  rotate: true
+  xy: 511, 2
+  size: 39, 60
+  orig: 39, 60
+  offset: 0, 0
+  index: -1
+Character-2/R-thigh
+  rotate: false
+  xy: 663, 463
+  size: 50, 46
+  orig: 50, 46
+  offset: 0, 0
+  index: -1
+Character-2/SMG/arm
+  rotate: true
+  xy: 765, 410
+  size: 35, 56
+  orig: 35, 56
+  offset: 0, 0
+  index: -1
+Character-2/SMG/shoulder
+  rotate: true
+  xy: 715, 447
+  size: 32, 62
+  orig: 32, 62
+  offset: 0, 0
+  index: -1
+Character-2/Shotgun/arm
+  rotate: true
+  xy: 858, 237
+  size: 35, 45
+  orig: 35, 47
+  offset: 0, 1
+  index: -1
+Character-2/Shotgun/hand-1
+  rotate: true
+  xy: 760, 181
+  size: 30, 36
+  orig: 32, 38
+  offset: 1, 1
+  index: -1
+Character-2/Shotgun/shoulder
+  rotate: false
+  xy: 818, 368
+  size: 53, 37
+  orig: 53, 37
+  offset: 0, 0
+  index: -1
+Character-2/bag-1
+  rotate: false
+  xy: 721, 157
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: -1
+Character-2/bag-2
+  rotate: false
+  xy: 886, 715
+  size: 19, 39
+  orig: 19, 39
+  offset: 0, 0
+  index: -1
+Character-2/body
+  rotate: true
+  xy: 416, 618
+  size: 80, 87
+  orig: 80, 87
+  offset: 0, 0
+  index: -1
+Character-2/bomb-1
+  rotate: false
+  xy: 766, 626
+  size: 39, 23
+  orig: 39, 23
+  offset: 0, 0
+  index: -1
+Character-2/face
+  rotate: false
+  xy: 266, 222
+  size: 64, 128
+  orig: 64, 128
+  offset: 0, 0
+  index: -1
+Character-2/face-2
+  rotate: true
+  xy: 317, 709
+  size: 64, 128
+  orig: 64, 128
+  offset: 0, 0
+  index: -1
+Character-2/head
+  rotate: true
+  xy: 151, 352
+  size: 126, 148
+  orig: 126, 148
+  offset: 0, 0
+  index: -1
+Character-2/hip
+  rotate: false
+  xy: 332, 223
+  size: 80, 51
+  orig: 80, 51
+  offset: 0, 0
+  index: -1
+Character-3/L-leg
+  rotate: true
+  xy: 823, 407
+  size: 38, 54
+  orig: 38, 54
+  offset: 0, 0
+  index: -1
+Character-3/L-thigh
+  rotate: true
+  xy: 2, 2
+  size: 58, 72
+  orig: 58, 72
+  offset: 0, 0
+  index: -1
+Character-3/R-leg
+  rotate: true
+  xy: 573, 2
+  size: 39, 60
+  orig: 39, 60
+  offset: 0, 0
+  index: -1
+Character-3/R-thigh
+  rotate: false
+  xy: 545, 137
+  size: 49, 54
+  orig: 49, 54
+  offset: 0, 0
+  index: -1
+Character-3/arm-1
+  rotate: false
+  xy: 873, 353
+  size: 32, 52
+  orig: 32, 52
+  offset: 0, 0
+  index: -1
+Character-3/arm-2
+  rotate: false
+  xy: 414, 227
+  size: 32, 47
+  orig: 32, 47
+  offset: 0, 0
+  index: -1
+Character-3/arm-3
+  rotate: true
+  xy: 606, 469
+  size: 40, 55
+  orig: 40, 55
+  offset: 0, 0
+  index: -1
+Character-3/bag
+  rotate: true
+  xy: 697, 374
+  size: 34, 62
+  orig: 34, 62
+  offset: 0, 0
+  index: -1
+Character-3/body
+  rotate: false
+  xy: 521, 515
+  size: 87, 101
+  orig: 87, 101
+  offset: 0, 0
+  index: -1
+Character-3/face
+  rotate: true
+  xy: 314, 487
+  size: 123, 107
+  orig: 123, 107
+  offset: 0, 0
+  index: -1
+Character-3/hand-2
+  rotate: false
+  xy: 728, 275
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1
+Character-3/hand-3
+  rotate: true
+  xy: 756, 147
+  size: 32, 36
+  orig: 34, 36
+  offset: 1, 0
+  index: -1
+Character-3/head
+  rotate: false
+  xy: 448, 120
+  size: 95, 60
+  orig: 95, 60
+  offset: 0, 0
+  index: -1
+Character-3/hip
+  rotate: false
+  xy: 540, 193
+  size: 68, 42
+  orig: 68, 42
+  offset: 0, 0
+  index: -1
+Character-3/shoulder-1
+  rotate: true
+  xy: 448, 2
+  size: 39, 61
+  orig: 39, 61
+  offset: 0, 0
+  index: -1
+Character-3/shoulder-2
+  rotate: false
+  xy: 761, 376
+  size: 55, 32
+  orig: 55, 32
+  offset: 0, 0
+  index: -1
+Character-3/shoulder-3
+  rotate: false
+  xy: 635, 2
+  size: 49, 40
+  orig: 49, 40
+  offset: 0, 0
+  index: -1
+Character-4/L-leg
+  rotate: false
+  xy: 728, 312
+  size: 37, 60
+  orig: 37, 60
+  offset: 0, 0
+  index: -1
+Character-4/L-thigh
+  rotate: false
+  xy: 676, 155
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+Character-4/R-leg
+  rotate: true
+  xy: 715, 481
+  size: 37, 65
+  orig: 37, 65
+  offset: 0, 0
+  index: -1
+Character-4/R-thigh
+  rotate: true
+  xy: 767, 322
+  size: 52, 44
+  orig: 52, 44
+  offset: 0, 0
+  index: -1
+Character-4/body
+  rotate: false
+  xy: 692, 681
+  size: 75, 92
+  orig: 75, 92
+  offset: 0, 0
+  index: -1
+Character-4/face
+  rotate: true
+  xy: 447, 700
+  size: 73, 121
+  orig: 73, 121
+  offset: 0, 0
+  index: -1
+Character-4/guitar
+  rotate: false
+  xy: 2, 673
+  size: 159, 232
+  orig: 161, 234
+  offset: 1, 1
+  index: -1
+Character-4/hair
+  rotate: true
+  xy: 423, 503
+  size: 113, 96
+  orig: 113, 96
+  offset: 0, 0
+  index: -1
+Character-4/head
+  rotate: true
+  xy: 306, 612
+  size: 95, 108
+  orig: 95, 108
+  offset: 0, 0
+  index: -1
+Character-4/hip
+  rotate: false
+  xy: 683, 623
+  size: 81, 56
+  orig: 81, 56
+  offset: 0, 0
+  index: -1
+Fx/081_0
+  rotate: false
+  xy: 371, 2
+  size: 42, 36
+  orig: 216, 216
+  offset: 54, 90
+  index: -1
+Fx/081_1
+  rotate: false
+  xy: 371, 2
+  size: 42, 36
+  orig: 216, 216
+  offset: 54, 90
+  index: -1
+Fx/081_2
+  rotate: false
+  xy: 521, 469
+  size: 83, 44
+  orig: 216, 216
+  offset: 56, 86
+  index: -1
+Fx/081_3
+  rotate: false
+  xy: 728, 230
+  size: 37, 43
+  orig: 216, 216
+  offset: 57, 87
+  index: -1
+Fx/081_4
+  rotate: true
+  xy: 632, 141
+  size: 56, 42
+  orig: 216, 216
+  offset: 59, 89
+  index: -1
+Fx/081_5
+  rotate: false
+  xy: 294, 2
+  size: 67, 33
+  orig: 216, 216
+  offset: 59, 93
+  index: -1
+Fx/1
+  rotate: false
+  xy: 134, 102
+  size: 116, 116
+  orig: 124, 123
+  offset: 4, 3
+  index: -1
+Fx/10
+  rotate: true
+  xy: 448, 182
+  size: 99, 90
+  orig: 101, 92
+  offset: 1, 1
+  index: -1
+Fx/2
+  rotate: false
+  xy: 134, 220
+  size: 130, 130
+  orig: 138, 138
+  offset: 4, 4
+  index: -1
+Fx/3
+  rotate: false
+  xy: 2, 364
+  size: 147, 147
+  orig: 157, 157
+  offset: 5, 5
+  index: -1
+Fx/4
+  rotate: false
+  xy: 163, 753
+  size: 152, 152
+  orig: 163, 162
+  offset: 5, 5
+  index: -1
+Fx/5
+  rotate: false
+  xy: 2, 513
+  size: 159, 158
+  orig: 161, 161
+  offset: 1, 1
+  index: -1
+Fx/6
+  rotate: false
+  xy: 769, 651
+  size: 115, 103
+  orig: 165, 166
+  offset: 24, 38
+  index: -1
+Fx/7
+  rotate: false
+  xy: 134, 2
+  size: 100, 98
+  orig: 117, 102
+  offset: 9, 3
+  index: -1
+Fx/8
+  rotate: false
+  xy: 610, 511
+  size: 100, 97
+  orig: 102, 99
+  offset: 1, 1
+  index: -1
+Fx/9
+  rotate: true
+  xy: 712, 520
+  size: 101, 94
+  orig: 103, 96
+  offset: 1, 1
+  index: -1
+Pistol/Pistol-1/pistol-1
+  rotate: true
+  xy: 767, 213
+  size: 42, 44
+  orig: 42, 44
+  offset: 0, 0
+  index: -1
+Pistol/Pistol-1/pistol-2
+  rotate: false
+  xy: 686, 2
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+Pistol/Pistol-1/pistol-2-fx
+  rotate: false
+  xy: 816, 242
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+Pistol/Pistol-2/pistol-1
+  rotate: false
+  xy: 76, 2
+  size: 44, 58
+  orig: 44, 58
+  offset: 0, 0
+  index: -1
+Pistol/Pistol-3/pistol-1
+  rotate: false
+  xy: 651, 403
+  size: 44, 58
+  orig: 44, 58
+  offset: 0, 0
+  index: -1
+Pistol/Pistol-4/pistol-1
+  rotate: false
+  xy: 682, 314
+  size: 44, 58
+  orig: 44, 58
+  offset: 0, 0
+  index: -1
+SMG/SMG-1/gun-1
+  rotate: false
+  xy: 294, 37
+  size: 75, 79
+  orig: 75, 79
+  offset: 0, 0
+  index: -1
+SMG/SMG-1/gun-2
+  rotate: false
+  xy: 610, 84
+  size: 35, 50
+  orig: 35, 50
+  offset: 0, 0
+  index: -1
+SMG/SMG-1/gun-3
+  rotate: false
+  xy: 301, 355
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+SMG/SMG-2/gun-3
+  rotate: false
+  xy: 301, 355
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+SMG/SMG-3/gun-3
+  rotate: false
+  xy: 301, 355
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+SMG/SMG-1/gun-fx
+  rotate: false
+  xy: 371, 40
+  size: 75, 79
+  orig: 75, 79
+  offset: 0, 0
+  index: -1
+SMG/SMG-2/gun-1
+  rotate: true
+  xy: 448, 43
+  size: 75, 79
+  orig: 75, 79
+  offset: 0, 0
+  index: -1
+SMG/SMG-2/gun-2
+  rotate: false
+  xy: 647, 89
+  size: 35, 50
+  orig: 35, 50
+  offset: 0, 0
+  index: -1
+SMG/SMG-2/gun-fx
+  rotate: true
+  xy: 529, 43
+  size: 75, 79
+  orig: 75, 79
+  offset: 0, 0
+  index: -1
+SMG/SMG-3/gun-1
+  rotate: false
+  xy: 497, 388
+  size: 75, 79
+  orig: 75, 79
+  offset: 0, 0
+  index: -1
+SMG/SMG-3/gun-fx
+  rotate: false
+  xy: 528, 307
+  size: 75, 79
+  orig: 75, 79
+  offset: 0, 0
+  index: -1
+SMG/SMG-4/gun-1
+  rotate: false
+  xy: 574, 388
+  size: 75, 79
+  orig: 75, 79
+  offset: 0, 0
+  index: -1
+SMG/SMG-4/gun-fx
+  rotate: false
+  xy: 605, 307
+  size: 75, 79
+  orig: 75, 79
+  offset: 0, 0
+  index: -1
+Shotgun/Shotgun-1/shotgun-1
+  rotate: false
+  xy: 808, 549
+  size: 96, 100
+  orig: 97, 102
+  offset: 0, 1
+  index: -1
+Shotgun/Shotgun-1/shotgun-1-fx
+  rotate: false
+  xy: 808, 447
+  size: 96, 100
+  orig: 97, 102
+  offset: 0, 1
+  index: -1
+Shotgun/Shotgun-1/shotgun-2
+  rotate: false
+  xy: 676, 233
+  size: 48, 35
+  orig: 50, 37
+  offset: 1, 1
+  index: -1
+Shotgun/Shotgun-2/shotgun-2
+  rotate: false
+  xy: 676, 233
+  size: 48, 35
+  orig: 50, 37
+  offset: 1, 1
+  index: -1
+Shotgun/Shotgun-2/shotgun-1
+  rotate: false
+  xy: 252, 118
+  size: 96, 100
+  orig: 97, 102
+  offset: 0, 1
+  index: -1
+Shotgun/Shotgun-2/shotgun-1-fx
+  rotate: false
+  xy: 301, 378
+  size: 96, 100
+  orig: 97, 102
+  offset: 0, 1
+  index: -1
+Shotgun/Shotgun-3/shotgun-1
+  rotate: false
+  xy: 332, 276
+  size: 96, 100
+  orig: 97, 102
+  offset: 0, 1
+  index: -1
+Shotgun/Shotgun-3/shotgun-1-fx
+  rotate: false
+  xy: 350, 121
+  size: 96, 100
+  orig: 97, 102
+  offset: 0, 1
+  index: -1
+Shotgun/Shotgun-4/shotgun-1
+  rotate: false
+  xy: 399, 385
+  size: 96, 100
+  orig: 97, 102
+  offset: 0, 1
+  index: -1
+Shotgun/Shotgun-4/shotgun-1-fx
+  rotate: false
+  xy: 430, 283
+  size: 96, 100
+  orig: 97, 102
+  offset: 0, 1
+  index: -1
+Shotgun/Shotgun-4/shotgun-2
+  rotate: true
+  xy: 684, 105
+  size: 48, 35
+  orig: 50, 37
+  offset: 1, 1
+  index: -1
+shadow
+  rotate: true
+  xy: 236, 5
+  size: 95, 56
+  orig: 98, 58
+  offset: 1, 1
+  index: -1
